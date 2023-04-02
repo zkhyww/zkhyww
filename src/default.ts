@@ -14,7 +14,7 @@ export const defaultMessage = `
 
 - [ChatGPT交流圈](https://t.zsxq.com/0csaR8Xry)一起探索ChatGPT以及其他AI工具的最新玩法。
 
--- 如需购买独享账号或plus账号可以联系微信[凯哥黑科技](https://mmbiz.qpic.cn/mmbiz_png/P3JJIuzuHrrOHCmnex8iciaNB8THktiakzdVg2diagvCO861FoYNbFhTKu95QLlgRnLRy6gNIT2FwVBAPbDxYtAUlw/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)。
+- 如需购买独享账号或plus账号可以联系微信[凯哥黑科技]。
 
 - **Shift+Enter** 换行。开头输入 **/** 或者 **空格** 搜索 Prompt 预设。点击输入框滚动到底部。`
 
